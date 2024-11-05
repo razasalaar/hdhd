@@ -164,9 +164,10 @@ header {
     display: block;
     margin-top: 10px;
   }
-  .logo {
+  .logo a {
     text-align: center;
     margin: 0 auto;
+    font-size: 2em;
   }
   .search-icon {
     display: none;
@@ -174,9 +175,11 @@ header {
 }
 
 @media (max-width: 480px) {
-  .logo {
+  .logo a {
     text-align: center;
+    font-size: 2em;
   }
+  
   .menu-icon {
     position: absolute;
     left: 20px;
