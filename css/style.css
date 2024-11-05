@@ -176,9 +176,11 @@ header {
 
 @media (max-width: 480px) {
   .logo a {
-    text-align: center;
+  display: flex;
+    justify-content: center; /* Centers the logo */
+    align-items: center; /* Centers vertically if needed */
     font-size: 2em;
-    margin-right: 60px;
+    margin: 0; /* Removes any extra margin */
   }
   
   .menu-icon {
