@@ -180,7 +180,7 @@ header {
     justify-content: center; /* Centers the logo */
     align-items: center; /* Centers vertically if needed */
     font-size: 2em;
-    margin: 0; /* Removes any extra margin */
+    margin-left: 50px; /* Removes any extra margin */
   }
   
   .menu-icon {
