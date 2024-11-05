@@ -178,11 +178,12 @@ header {
   .logo a {
     text-align: center;
     font-size: 2em;
+    margin-left: 40px;
   }
   
   .menu-icon {
     position: absolute;
-    left: 20px;
+    
     margin-top: 8px;
     font-size: 24px;
   }
