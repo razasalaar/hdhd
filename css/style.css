@@ -175,12 +175,11 @@ header {
 }
 
 @media (max-width: 480px) {
-  .logo a {
+  .logo  {
   display: flex;
-    justify-content: center; /* Centers the logo */
-    align-items: center; /* Centers vertically if needed */
+    /* Centers vertically if needed */
     font-size: 2em;
-    margin-left: 50px; /* Removes any extra margin */
+   margin-left: 60px; /* Removes any extra margin */
   }
   
   .menu-icon {
