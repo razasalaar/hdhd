@@ -54,7 +54,7 @@ header {
 }
 .nav-links {
   display: flex;
-  gap: 40px;
+  gap: 20px;
 }
 
 .nav-icons {
